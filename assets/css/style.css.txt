@@ -2,13 +2,6 @@
   #style.css
 \*-----------------------------------*/
 
-/**
- * copyright 2022 codewithsadee
- */
-
-
-
-
 
 /*-----------------------------------*\
   #CUSTOM PROPERTY
@@ -1378,13 +1371,6 @@ body {
 
 
 
-  /**
-   * BLOG
-   */
 
-  .blog-shape {
-    top: 0;
-    left: 0;
-  }
 
 }
